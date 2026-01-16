@@ -16,5 +16,8 @@ Commande pour lancer les tests :
 
 ```bash
 npm test
+npm run lint
+npm run format
+
 
 ```
